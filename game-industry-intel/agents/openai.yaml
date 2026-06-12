@@ -1,0 +1,7 @@
+interface:
+  display_name: "Game Industry Intel"
+  short_description: "抓取并总结游戏关键行业信息"
+  default_prompt: "Use $game-industry-intel to research a game by name and create a Markdown intelligence summary."
+
+policy:
+  allow_implicit_invocation: true
